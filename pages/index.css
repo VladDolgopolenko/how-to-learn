@@ -79,7 +79,3 @@
 @import url(../blocks/video/iframe/__iframe.css);
 @import url(../blocks/video/iframes/__iframes.css);
 
-
-* {
-    outline: 1px solid red;
-  }
